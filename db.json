@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1222,
+      "name": "ryyt",
+      "mobile": 3478787889,
+      "salary": 23877,
+      "address": "34gtsgs",
+      "position": "Backend Developer",
+      "email": "yhfhf",
+      "gender": "male"
+    },
+    {
+      "id": 6712,
+      "name": "sowmya",
+      "mobile": 92563783789,
+      "salary": 88000,
+      "address": "ameerpet, hyderabad",
+      "email": "sowmya@gmail.com",
+      "gender": "female",
+      "position": "Architect"
+    },
+    {
+      "id": 565,
+      "name": "rwesdc",
+      "mobile": 453564,
+      "address": "gedvgscgv",
+      "salary": 43534,
+      "email": "453456rdfgvcfdgv",
+      "gender": "male",
+      "position": "Backend Developer"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
